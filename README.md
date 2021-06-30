@@ -1,3 +1,13 @@
+
+## About The Project
+
+Frontend development and forms go hand-in-hand, and there are several ways to build and validate forms. I wanted to experiment with forms and get a better handle on validation using [Formik](https://formik.org). 
+
+### Built With
+
+* [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
+* [Formik](https://formik.org)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Kristiina Eelnurme - [@keelnurme](https://twitter.com/keelnurme)
+
+Project Link: [https://github.com/keelnu/form-practice](https://github.com/keelnu/form-practice)
+
