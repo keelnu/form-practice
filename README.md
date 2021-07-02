@@ -1,12 +1,12 @@
 
 ## About The Project
 
-Frontend development and forms go hand-in-hand, and there are several ways to build and validate forms. I wanted to experiment with forms and get a better handle on validation using [Formik](https://formik.org). 
+Frontend development and forms go hand-in-hand, and there are several ways to build and validate forms. I wanted to experiment with forms and get a better handle on validation using [React Hook Form](https://react-hook-form.com/). 
 
 ### Built With
 
 * [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
-* [Formik](https://formik.org)
+* [React Hook Form](https://react-hook-form.com/)
 
 # Getting Started with Create React App
 
